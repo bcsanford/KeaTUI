@@ -1,0 +1,8 @@
+
+[project]
+name = "keatui"
+version = "0.1.0b1"
+description = "TUI for ISC Kea DHCPv4/v6 management"
+authors = [{name = "BC Sanford"}]
+dependencies = ["urwid", "requests"]
+requires-python = ">=3.8"
